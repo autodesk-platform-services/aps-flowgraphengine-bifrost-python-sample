@@ -1,4 +1,4 @@
-# Scatter trees sample (Phyton)
+# Scatter trees sample (Python)
 
 [![Python](https://img.shields.io/badge/Phyton-2.3-blue.svg)](https://www.python.org)
 ![Platforms](https://img.shields.io/badge/Web-Windows%20%7C%20MacOS%20%7C%20Linux-lightgray.svg)
