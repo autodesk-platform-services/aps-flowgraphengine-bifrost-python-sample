@@ -43,7 +43,8 @@ def main(
                         'frames': {
                             'start': 1,
                             'end'  : 1,
-                        }
+                        },
+                        'bifrostVersion': '2.9.0.0'
                     },
                     'definitionFiles': [{
                             'source': {
